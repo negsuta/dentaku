@@ -304,14 +304,6 @@ class den2 extends JFrame implements ActionListener,KeyListener {
 		}
 	}
 
-
-	@Override
-	public void keyTyped(KeyEvent e) {
-		// TODO 自動生成されたメソッド・スタブ
-		
-	}
-
-
 	@Override
 	public void keyPressed(KeyEvent e) {
 		// TODO 自動生成されたメソッド・スタブ
@@ -321,14 +313,6 @@ class den2 extends JFrame implements ActionListener,KeyListener {
 			tbfl=1;
 		}
 	}
-
-
-	@Override
-	public void keyReleased(KeyEvent e) {
-		// TODO 自動生成されたメソッド・スタブ
-		
-	}
-	
 
 	
 }
